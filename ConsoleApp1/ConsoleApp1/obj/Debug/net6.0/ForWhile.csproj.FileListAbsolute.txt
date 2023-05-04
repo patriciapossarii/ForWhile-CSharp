@@ -1,0 +1,15 @@
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ForWhile.exe
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ForWhile.deps.json
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ForWhile.runtimeconfig.json
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ForWhile.dll
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ForWhile.pdb
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.csproj.AssemblyReference.cache
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.AssemblyInfoInputs.cache
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.AssemblyInfo.cs
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.csproj.CoreCompileInputs.cache
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.dll
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ForWhile.dll
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.pdb
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ForWhile.genruntimeconfig.cache
+Z:\Dev2Blu\FowWhile-CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ForWhile.dll
